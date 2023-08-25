@@ -10,7 +10,7 @@ export default async function handler(
 
     const cat = cats.find((animal) => animal.id === req.query['id']);
 
-    cat.isAdopted = true;
+    cat.isAdopted = !cat.isAdopted;
 
     writeFile('cats_database.json', JSON.stringify(cats, null, 2), (err) => {
       if (err) console.log(err);
