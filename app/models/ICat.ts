@@ -1,6 +1,6 @@
 export interface ICat {
-    id: number;
-    url: string;
-    name: string;
-    isAdopted: boolean;
+  id: number;
+  url: string;
+  name: string;
+  isAdopted: boolean;
 }
