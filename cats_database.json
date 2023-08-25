@@ -1,0 +1,251 @@
+[
+  {
+    "breeds": [],
+    "id": "mj",
+    "url": "https://cdn2.thecatapi.com/images/mj.jpg",
+    "width": 480,
+    "height": 358,
+    "isAdopted": false,
+    "name": "Beau"
+  },
+  {
+    "breeds": [],
+    "id": "22m",
+    "url": "https://cdn2.thecatapi.com/images/22m.jpg",
+    "width": 604,
+    "height": 453,
+    "isAdopted": false,
+    "name": "Iain"
+  },
+  {
+    "breeds": [],
+    "id": "2e2",
+    "url": "https://cdn2.thecatapi.com/images/2e2.jpg",
+    "width": 500,
+    "height": 333,
+    "isAdopted": false,
+    "name": "Florella"
+  },
+  {
+    "breeds": [],
+    "id": "43t",
+    "url": "https://cdn2.thecatapi.com/images/43t.jpg",
+    "width": 500,
+    "height": 333,
+    "isAdopted": false,
+    "name": "Kasey"
+  },
+  {
+    "breeds": [],
+    "id": "4dj",
+    "url": "https://cdn2.thecatapi.com/images/4dj.gif",
+    "width": 250,
+    "height": 174,
+    "isAdopted": false,
+    "name": "Antonella"
+  },
+  {
+    "breeds": [],
+    "id": "4ru",
+    "url": "https://cdn2.thecatapi.com/images/4ru.jpg",
+    "width": 500,
+    "height": 334,
+    "isAdopted": false,
+    "name": "Jeffy"
+  },
+  {
+    "breeds": [],
+    "id": "4sr",
+    "url": "https://cdn2.thecatapi.com/images/4sr.jpg",
+    "width": 720,
+    "height": 540,
+    "isAdopted": false,
+    "name": "Ashlin"
+  },
+  {
+    "breeds": [],
+    "categories": [
+      {
+        "id": 5,
+        "name": "boxes"
+      }
+    ],
+    "id": "5kg",
+    "url": "https://cdn2.thecatapi.com/images/5kg.jpg",
+    "width": 679,
+    "height": 800,
+    "isAdopted": false,
+    "name": "Ermin"
+  },
+  {
+    "breeds": [],
+    "id": "76k",
+    "url": "https://cdn2.thecatapi.com/images/76k.jpg",
+    "width": 333,
+    "height": 500,
+    "isAdopted": false,
+    "name": "Elmo"
+  },
+  {
+    "breeds": [],
+    "id": "7du",
+    "url": "https://cdn2.thecatapi.com/images/7du.jpg",
+    "width": 500,
+    "height": 334,
+    "isAdopted": false,
+    "name": "Sheridan"
+  },
+  {
+    "breeds": [],
+    "id": "80f",
+    "url": "https://cdn2.thecatapi.com/images/80f.gif",
+    "width": 388,
+    "height": 306,
+    "isAdopted": false,
+    "name": "Rey"
+  },
+  {
+    "breeds": [],
+    "id": "8li",
+    "url": "https://cdn2.thecatapi.com/images/8li.jpg",
+    "width": 500,
+    "height": 333,
+    "isAdopted": false,
+    "name": "Willis"
+  },
+  {
+    "breeds": [],
+    "id": "9v1",
+    "url": "https://cdn2.thecatapi.com/images/9v1.jpg",
+    "width": 600,
+    "height": 764,
+    "isAdopted": false,
+    "name": "Reider"
+  },
+  {
+    "breeds": [],
+    "id": "a41",
+    "url": "https://cdn2.thecatapi.com/images/a41.jpg",
+    "width": 500,
+    "height": 334,
+    "isAdopted": false,
+    "name": "Danica"
+  },
+  {
+    "breeds": [],
+    "id": "abc",
+    "url": "https://cdn2.thecatapi.com/images/abc.jpg",
+    "width": 768,
+    "height": 1024,
+    "isAdopted": false,
+    "name": "Philbert"
+  },
+  {
+    "breeds": [],
+    "id": "ade",
+    "url": "https://cdn2.thecatapi.com/images/ade.jpg",
+    "width": 640,
+    "height": 480,
+    "isAdopted": false,
+    "name": "Stefa"
+  },
+  {
+    "breeds": [],
+    "id": "bhq",
+    "url": "https://cdn2.thecatapi.com/images/bhq.jpg",
+    "width": 500,
+    "height": 333,
+    "isAdopted": false,
+    "name": "Bethena"
+  },
+  {
+    "breeds": [],
+    "id": "bkm",
+    "url": "https://cdn2.thecatapi.com/images/bkm.jpg",
+    "width": 650,
+    "height": 669,
+    "isAdopted": false,
+    "name": "Tymon"
+  },
+  {
+    "breeds": [],
+    "id": "cgq",
+    "url": "https://cdn2.thecatapi.com/images/cgq.jpg",
+    "width": 640,
+    "height": 480,
+    "isAdopted": false,
+    "name": "Justino"
+  },
+  {
+    "breeds": [],
+    "id": "ck9",
+    "url": "https://cdn2.thecatapi.com/images/ck9.jpg",
+    "width": 500,
+    "height": 334,
+    "isAdopted": false,
+    "name": "Evangelia"
+  },
+  {
+    "breeds": [],
+    "id": "d80",
+    "url": "https://cdn2.thecatapi.com/images/d80.png",
+    "width": 699,
+    "height": 521,
+    "isAdopted": false,
+    "name": "Brade"
+  },
+  {
+    "breeds": [],
+    "id": "dub",
+    "url": "https://cdn2.thecatapi.com/images/dub.jpg",
+    "width": 960,
+    "height": 1296,
+    "isAdopted": false,
+    "name": "Hewie"
+  },
+  {
+    "breeds": [],
+    "id": "e8b",
+    "url": "https://cdn2.thecatapi.com/images/e8b.jpg",
+    "width": 720,
+    "height": 540,
+    "isAdopted": false,
+    "name": "Rainer"
+  },
+  {
+    "breeds": [],
+    "id": "MTU3NTY3Nw",
+    "url": "https://cdn2.thecatapi.com/images/MTU3NTY3Nw.jpg",
+    "width": 580,
+    "height": 773,
+    "isAdopted": false,
+    "name": "Dale"
+  },
+  {
+    "breeds": [],
+    "id": "MTkwMTE3Ng",
+    "url": "https://cdn2.thecatapi.com/images/MTkwMTE3Ng.jpg",
+    "width": 600,
+    "height": 814,
+    "isAdopted": false,
+    "name": "Chrisy"
+  },
+  {
+    "breeds": [],
+    "id": "MjAwNTQ2OA",
+    "url": "https://cdn2.thecatapi.com/images/MjAwNTQ2OA.jpg",
+    "width": 640,
+    "height": 424,
+    "isAdopted": false,
+    "name": "Madelle"
+  },
+  {
+    "breeds": [],
+    "id": "MjA2NTEyMg",
+    "url": "https://cdn2.thecatapi.com/images/MjA2NTEyMg.jpg",
+    "width": 500,
+    "height": 332,
+    "isAdopted": false,
+    "name": "Anthe"
+  }
+]

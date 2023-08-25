@@ -11,9 +11,13 @@ export default function Home() {
       .then((response) => response.json())
       .then((data) => setUsers(data.users));
 
-      fetch('https://api.thecatapi.com/v1/images/search?api_key=live_vXNZD2Novm6IAO6VUk98KwhT9S8obSqilstHwjvIZqZdUSFl3iQIXxba00DJWDQo&limit=30')
+    fetch(
+      'https://api.thecatapi.com/v1/images/search?api_key=live_vXNZD2Novm6IAO6VUk98KwhT9S8obSqilstHwjvIZqZdUSFl3iQIXxba00DJWDQo&limit=30'
+    )
       .then((response) => response.json())
-      .then((data) => console.log(data));
+      .then((data) => {
+        console.log(data);
+      });
   }, []);
   return (
     <main className={styles.main}>
