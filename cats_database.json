@@ -5,7 +5,7 @@
     "url": "https://cdn2.thecatapi.com/images/mj.jpg",
     "width": 480,
     "height": 358,
-    "isAdopted": false,
+    "isAdopted": true,
     "name": "Beau"
   },
   {
@@ -14,7 +14,7 @@
     "url": "https://cdn2.thecatapi.com/images/22m.jpg",
     "width": 604,
     "height": 453,
-    "isAdopted": false,
+    "isAdopted": true,
     "name": "Iain"
   },
   {
